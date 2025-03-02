@@ -1,0 +1,36 @@
+## Installation
+
+1. Download the plugin.
+2. Extract the downloaded file into the `lib/plugins` directory of your DokuWiki installation.
+3. Ensure the plugin directory is named `diceroller`.
+
+## Usage
+
+To use the Dice Roller plugin, simply include the appropriate syntax in your DokuWiki pages as described in the Syntax section above.
+
+## Examples
+
+- Rolling a single six-sided die: `{{dice 1d6}}`
+- Rolling three twenty-sided dice and subtracting five: `{{dice 3d20-5}}`
+- Rolling four Fudge/Fate dice and adding five: `{{dice 4df+5}}`
+- Rolling four explosive six-sided dice: `{{dice 4de6}}`
+- Rolling one Starwars FFG Boost die: `{{dice 1dB}}`
+
+dB = Boost
+dS = Setback
+dA = Ability
+dD = Difficulty
+dP = Proficiency
+dC = Challenge
+dF = Force
+
+## Contributing
+
+Contributions are welcome! Please follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix.
+3. Commit your changes with clear and concise messages.
+4. Push your changes to your fork.
+5. Create a pull request to the main repository
+

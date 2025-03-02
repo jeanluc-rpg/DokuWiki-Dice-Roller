@@ -1,0 +1,7 @@
+  base   diceroller
+  author jeanluc-rpg
+  email  dev@jeanluc.ovh
+  date   2025-03-02
+  name   Dice Roller
+  desc   DiceRoller For DokuWiki
+  url    https://github.com/jeanluc-rpg/DokuWiki-Dice-Roller/tree/main
